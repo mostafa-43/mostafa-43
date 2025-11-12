@@ -41,7 +41,7 @@ I'm a passionate software developer who enjoys building robust, scalable, and us
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-abdo43)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-abdo43)
 - 📧 eng.mostafaabdo43@gmail.com
 
 ---
